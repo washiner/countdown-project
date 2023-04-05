@@ -10,7 +10,7 @@
 <br>
 
 <p align="center"> Para visualizar o projeto no seu navegador:
-  <a href="https://imc-project-was.netlify.app/" target="_blank"> Click Aqui <a/>
+  <a href="https://countdown-project-was.netlify.app/" target="_blank"> Click Aqui <a/>
 </p>
 
 <br>
@@ -26,8 +26,13 @@ Esse projeto foi desenvolvido com HTML e CSS principalmente em JavaScrip@t:
 
 ## 💻 Projeto
 
-Manipulação do DOM (Document Object Model) para interagir com elementos da página HTML.
-Eventos de JavaScript para detectar ações do usuário, como clique em botões.
-Funções de JavaScript para realizar o cálculo do IMC e exibir o resultado na página.
-CSS para estilizar a interface da calculadora e torná-la mais atraente e fácil de usar.
-Além disso, nessa aula também enfatiza a importância de seguir boas práticas de programação em JavaScript, como usar nomes descritivos para variáveis, comentar o código e evitar repetições desnecessárias de código.
+Oque aprendemos:
+
+Criar uma variáveis de data usando o construtor Date(): var startDate = new Date();
+Acessar elementos HTML usando o método document.getElementById()
+Formatar números usando o método Math.floor()
+Obter o tempo atual usando o construtor Date(): var currentDate = new Date();
+Definir um intervalo de tempo usando o método setInterval()
+Calcular a diferença entre duas datas em milissegundos: var difference = Math.floor((currentDate - startDate) / 1000);
+Calcular o resto de uma divisão usando o operador %
+Além disso, aprendemos criar funções que atualizam a contagem de tempo, definir variáveis ​​de data e tempo, e criar condições para pausar e reiniciar a contagem regressiva.
